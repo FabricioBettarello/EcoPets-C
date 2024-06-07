@@ -48,3 +48,11 @@ void loop() {
   // Lógica principal
 }
 ```
+
+## Alertas
+- **Verde**: Nível de água seguro.
+- **Amarelo**: Nível de água moderado.
+- **Vermelho**: Nível de água crítico, aciona o alarme e abre o portão.
+
+## Contribuições
+Fabricio Bettarello RM 554638 e Eric Yuji RM 554869
