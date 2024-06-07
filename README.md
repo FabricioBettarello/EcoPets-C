@@ -33,3 +33,18 @@ Instale as bibliotecas necessárias usando o Gerenciador de Bibliotecas na Ardui
 #include <LiquidCrystal_I2C.h>
 #include <Servo.h>
 ```
+
+## Código de Exemplo
+O código a seguir é responsável pelo funcionamento do Robô Golfinho:
+```cpp
+#include <LiquidCrystal_I2C.h>
+#include <Servo.h>
+// Definições de pinos e inicializações
+// ...
+void setup() {
+  // Configurações iniciais
+}
+void loop() {
+  // Lógica principal
+}
+```
