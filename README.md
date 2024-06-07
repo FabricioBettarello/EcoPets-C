@@ -1,4 +1,5 @@
 # Projeto Sensor de Temperatura, Umidade e Altura da Água
+O Projeto EcoPets é uma iniciativa dedicada à preservação do meio ambiente, com foco especial nos oceanos. Por meio da criação de robôs para a limpeza dos mares, utilizamos uma combinação de tecnologias avançadas para enfrentar os desafios ambientais.
 
 ## Descrição
 Este projeto consiste em dois componentes principais: o **Robô Tartaruga**, que monitora temperatura e umidade, e o **Robô Golfinho**, que mede a altura da água. Ambos são projetados para fornecer dados ambientais precisos e alertas em tempo real.
